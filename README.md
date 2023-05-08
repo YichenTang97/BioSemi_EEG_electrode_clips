@@ -10,5 +10,7 @@ To address this issue, I have developed a small, 3D-printed device that clips al
 
 When preparing for an experiment, simply inject gel into all holes and the electrodes will be ready for placement, allowing for a faster setup. With this add-on, the setup time for a 64-channel hat could be reduced to as little as 10 minutes, even with only one person performing the setup.
 
+Also check the project on Thingiverse: https://www.thingiverse.com/thing:6006361
+
 > **Note**
 > While this solution may significantly reduce your setup time for the participants, it did come with a cost. It requires a longer preparation time before your participants arrive, as well as a longer cleanup time after the experiment is completed.
